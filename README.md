@@ -10,6 +10,12 @@ Will call a taxi by using a command (default `/takso`). The taxi will drive to t
 
 The script is client-side and averages about 0.10ms to 0.20ms on the resource monitor.
 <h3 align="center">
+	  PROBLEMS/ERRORS
+</h3>
+
+I made this just for fun. If you need any help with the resource you can contact me in discord, but before doing so make sure you've tried everything to fix the issue you're dealing with. Only contact me if you really need help, like something doesn't work. Don't contact me if you just want to ask 'how can i use this resource'. There are tutorials everywhere on how to install resources to your server.
+
+<h3 align="center">
 	  POSSIBLE UPDATES
 </h3>
 
